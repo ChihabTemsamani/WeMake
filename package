@@ -1,0 +1,31 @@
+
+{
+  "name": "WeMake",
+  "version": "0.0.1",
+  "description": "WeMake mod bot",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikmarokko2/WeMake"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "ikmarokko2",
+  "license": "false",
+  "bugs": {
+    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
+  },
+  "homepage": "https://github.com/ikmarokko2/wemake",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
