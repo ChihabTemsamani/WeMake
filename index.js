@@ -6,4 +6,5 @@ client.on('ready', () => {
     client.user.setActivity('my new salty script (ONDERHOUD)', {type: 'WATCHING'});
 
 
-client.login(process.env.TOKEN);
+client.login(process.env.Token:NDYxMDY3OTQ0MzgyODI0NDUw.DhN6gw.Xd-VAfdlptcyMs-qKcZjZaxzv3g
+);
